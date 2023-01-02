@@ -1,17 +1,21 @@
-- title: Student, Harvard CS
-  from: 2014
-  to: 2018
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-               sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-               Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-               nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-               reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+- title: Engineering Manager, Argyle
+  from: 2021
+  to: 2022
+  description: Supported the SDK team in building and maintaining Link, Argyle's
+               mobile SDK for Android, iOS, React and Flutter, and the supporting
+               backend services. 
 
-- title: Software Engineer, Google, UK
-  from: 2018
-  to: present
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-               sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-               Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-               nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-               reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+- title: Android dev & Engineering Manager, Deloitte Digital
+  from: 2014
+  to: 2021
+  description: Part of the engineering leadership on a number of large digital
+               transformation projects within the consumer banking sector
+
+- title: Mobile Engineer, Gravity
+  from: 2012
+  to: 2014
+  description: App development utilising the Xamarin Platform and C#
+               Worked in a small team of 4 with responsibility for developing
+               small/medium-sized apps on both Android and iOS
+               Leveraged my C# & .NET experience to deliver cross-platform apps
+               with considerable (+-60%) code sharing

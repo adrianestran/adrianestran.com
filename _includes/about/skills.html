@@ -1,0 +1,13 @@
+{%- assign badge_style =  skill.color | prepend: 'badge-light' -%}
+
+<div class="col-lg">
+
+    <h2 class="mb-3">{{ include.title }}</h2>
+  
+    {% for skill in include.source %}
+  
+    <span class="badge {{ badge_style }}">{{ skill.name }}</span>
+
+    {% endfor %}
+  
+  </div>

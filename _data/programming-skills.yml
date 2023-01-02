@@ -1,11 +1,14 @@
-- name: HTML5/CSS3
-  percentage: 90
-  color: danger
+- name: Android
+  color: secondary
 
-- name: Go
-  percentage: 80
-  color:
+- name: Native Mobile
+  color: secondary
 
-- name: Python
-  percentage: 70
+- name: Java
+  color: secondary
+
+- name: SOA
+  color: secondary
+
+- name: AWS
   color: secondary

@@ -1,5 +1,5 @@
 ---
-title: Why I believe the '#NoEstimates' approach
+title: Why I believe in the '#NoEstimates' approach
 tags: [Agile]
 style: fill
 color: light

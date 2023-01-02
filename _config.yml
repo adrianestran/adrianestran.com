@@ -1,0 +1,80 @@
+### Site Settings ###
+title               : Adrian Estran
+description         : >-
+                      Engineering Manager and Android Developer
+baseurl             : ""                     # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
+remote_theme        : YoussefRaafatNasry/portfolYOU
+open_new_tab        : false                             # Opens external URLs in new tab (works for posts, projects and navbar only)
+
+
+### Plugins ###
+plugins:
+  - jemoji
+  - jekyll-remote-theme
+
+
+### Navbar Settings ###
+nav_exclude:                                            # The following paths are excluded from navbar
+  - pages/tags.html
+  - pages/404.html
+  - pages/index.md
+
+
+### Author Info ###
+author:
+  name              : Adrian Estran
+  image             : https://media-exp1.licdn.com/dms/image/C4D03AQGe-VAyoyXgQg/profile-displayphoto-shrink_200_200/0/1658503002745?e=1675900800&v=beta&t=6VoBWAJFjZNYUqHSLwVubLR7U2gMIQHfMFMiYv1m1P0
+  email             : adrianestran@gmail.com
+  github            : adrianestran
+  instagram         : hugz4sale
+  linkedin          : adrianestran
+
+
+### Posts ###
+permalink: /blog/:title
+
+
+### Collections ###
+collections:
+  projects:
+    output: true
+    permalink: /projects/:name
+
+
+### Analytics ###
+analytics:
+  enabled: false                                        # Set true to enable analytics
+  google:
+    tracking_id: your-google-tracking-id
+
+
+### Buy me a coffee ###
+# See https://www.buymeacoffee.com/
+buymeacoffee:
+  enabled: false
+  username: your_username
+  color: "#007bff"
+  message: "Thank you for visiting."                    # Message to be displayed aside from the button for a few seconds.
+  description: "Support me on Buy me a coffee!"
+
+
+### Defaults for collections ###
+defaults:
+  - scope:
+      path: ""
+      type: "projects"
+    values:
+      layout: "page"
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      comments: false                                   # Set to true to enable disqus comments
+
+
+### Exclude from processing ###
+exclude:
+  - README.md
+  - CONTRIBUTING.md
+  - LICENSE
+  - "*.log"

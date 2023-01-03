@@ -7,4 +7,4 @@ description: Coming soon...
 layout: post
 ---
 
-I am currently working on the draft for this content.
+When I joined Argyle as an Engineering Manager for the mobile SDK team, my mandate was to get the team working efficiently

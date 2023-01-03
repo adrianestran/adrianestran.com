@@ -1,0 +1,13 @@
+<div class="wow animated fadeIn" data-wow-delay=".15s">
+    <a href="{{ book.book_url }}" class="project card text-themed" target="_blank">
+      {%- if book.image -%}
+      <img id="{{ book.name }}-img" class="card-img-top" src="{{ book.image }}" alt="{{ book.name }}" />
+      {%- endif -%}
+      <div class="card-body">
+        <h5 id="{{ name }}-name" class="card-title">
+          {{ book.name }}
+        </h5>
+        <p id="{{ name }}-desc" class="card-text">By {{ book.author }}</p>
+      </div>
+    </a>
+  </div>

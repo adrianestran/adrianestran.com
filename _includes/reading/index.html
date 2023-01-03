@@ -1,0 +1,8 @@
+<br>
+<br>
+<h2>A collection of books that I have read and highly recommend</h2>
+
+<div class="card-columns m-3 mt-5">
+  {% for book in include.source %} {% include reading/book-card.html %} {%
+  endfor %}
+</div>

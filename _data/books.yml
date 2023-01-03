@@ -1,0 +1,29 @@
+- name: 7 and a half lessons about the brain
+  author: Lisa Feldman Barrett
+  book_url: https://www.amazon.es/Seven-Half-Lessons-About-Brain/dp/1529018625
+  image: https://m.media-amazon.com/images/S/aplus-media/vc/4487d9e7-b597-494f-a0f8-d1a7c486ab73.__CR0,0,300,300_PT0_SX300_V1___.png
+
+- name: Designing Data Intensive Applications
+  author: Martin Kleppmann
+  book_url: https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321
+  image: https://5.imimg.com/data5/SELLER/Default/2022/8/GP/XF/IZ/113288716/designing-data-intensive-1000x1000.jpg
+
+- name: Rationality Now
+  author: Steven Pinker
+  book_url: https://www.amazon.es/Rationality-What-Seems-Scarce-Matters/dp/0525561994
+  image: https://static01.nyt.com/images/2021/09/30/books/29BOOKPINKER1/29BOOKPINKER1-videoSixteenByNineJumbo1600.png
+
+- name: Engineering Management for the Rest of Us
+  author: Sarah Drasner
+  book_url: https://www.amazon.es/Rationality-What-Seems-Scarce-Matters/dp/0525561994
+  image: https://external-preview.redd.it/SpvrirHIIGGaYatjeIggyqKPy6ue8StYc_hp7-PmZBY.jpg?auto=webp&s=3d77f57a36622490e7b68a63f06ec400cc253d8a
+
+- name: Clean Architecture
+  author: Robert C.Martin
+  book_url: https://www.amazon.es/Clean-Architecture-Craftsmans-Software-Structure/dp/0134494164
+  image: https://cf.shopee.co.th/file/e831e4fb17335eeba5297d40a191d805
+
+- name: The Staff Engineer's Path
+  author: Tanya Reilly
+  book_url: https://www.amazon.es/Staff-Engineers-Path-Individual-Contributors/dp/1098118731
+  image: https://m.media-amazon.com/images/I/813cTBVF1hL.jpg

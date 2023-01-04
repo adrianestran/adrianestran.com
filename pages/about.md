@@ -13,7 +13,7 @@ Hi I am **{{ site.author.name }}** :wave:,<br>
 
 I believe I am highly adaptable, with good business and technical acumen. I am passionate about nurturing and encouraging excellent engineering and team culture. Some of the values I hold high, and work to foster, include Trust, Sustainability, Impartiality and Ownership.
 
-In pursuit of these values, I have developed various skills, including:
+In pursuit of these values, I have developed skills in the following areas:
 - Coaching, goal setting & feedback strategies
 - Empathic leadership
 - Communicating across cultures and geographies

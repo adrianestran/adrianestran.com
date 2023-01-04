@@ -21,7 +21,7 @@ In pursuit of these values, I have developed various skills, including:
 - Shaping predictable delivery systems 
 - Pragmatically applying engineering best practise
 
-My ideal role is a close-to-the-ground leadership role, solving technical, team and people challenges within a product organisation. 
+My ideal role is a close-to-the-ground leadership position, solving technical, team and people challenges within a product organisation. 
 
 Above all, culture is most important to me: working with a diverse group of people who are warm, friendly and outgoing. I prefer to bring my "whole self" to work.
 

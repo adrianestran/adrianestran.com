@@ -4,12 +4,14 @@
   description: Supported the SDK team in building and maintaining Link, Argyle's
                mobile SDK for Android, iOS, React and Flutter, and the supporting
                backend services. 
+  skills: [Android, Kotlin, REST, Swagger, SOA, Project Management, Flow Metrics, NoEstimates, Kanban, Coaching, Feedback, Process Definition, Recruitment]
 
 - title: Android dev & Engineering Manager, Deloitte Digital
   from: 2014
   to: 2021
   description: Part of the engineering leadership on a number of large digital
                transformation projects within the consumer banking sector
+  skills: [Android, Kotlin, Java, Spring, Apache Camel, REST, Swagger, SOA, Project Management, Flow Metrics, Coaching, Feedback, NoEstimates, Kanban, Process Definition, Recruitment]
 
 - title: Mobile Engineer, Gravity
   from: 2012
@@ -19,3 +21,4 @@
                small/medium-sized apps on both Android and iOS
                Leveraged my C# & .NET experience to deliver cross-platform apps
                with considerable (+-60%) code sharing
+  skills: [Android, iOS, Xamarin, C#, HTML, CSS]

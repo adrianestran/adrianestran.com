@@ -6,6 +6,13 @@
           <p>{{ item.title }}</p>
           <h6 class="date">{{ item.from }} — {{ item.to }}</h6>
           <p>{{ item.description }}</p>
+
+          <div>
+            {% for skill in item.skills %}
+              <span class="badge badge-light">{{ skill }}</span>
+            {% endfor %}
+          </div>
+
         </div>
       </div>
     {% endfor %}

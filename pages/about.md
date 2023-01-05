@@ -26,10 +26,5 @@ My ideal role is a close-to-the-ground leadership position, solving technical, t
 Above all, culture is most important to me: working with a diverse group of people who are warm, friendly and outgoing. I prefer to bring my "whole self" to work.
 
 <div class="row">
-{% include about/skills.html title="Programming Skills" source=site.data.programming-skills %}
-{% include about/skills.html title="Leadership Skills" source=site.data.leadership-skills %}
-</div>
-
-<div class="row">
 {% include about/timeline.html %}
 </div>

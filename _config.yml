@@ -43,9 +43,9 @@ collections:
 
 ### Analytics ###
 analytics:
-  enabled: false                                        # Set true to enable analytics
+  enabled: true                                
   google:
-    tracking_id: your-google-tracking-id
+    tracking_id: G-B2LHP72DPW
 
 
 ### Buy me a coffee ###

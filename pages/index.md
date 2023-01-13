@@ -8,7 +8,7 @@ permalink: /
 
 Hi there. My name is **{{ site.author.name }}** :wave:,<br>
 
-14 years of experience in software engineering; 8+ years contributing as an IC with a specialism in native mobile. I have spent the last 5 years growing and leading engineering and product teams in multiple domains including banking, fintech, public sector and consulting. 
+I have 14 years of experience in software engineering; 8+ years contributing as an IC with a specialism in native mobile. I have spent the last 5 years growing and leading engineering and product teams in multiple domains including banking, fintech, public sector and consulting. 
 
 I believe I am highly adaptable, with good business and technical acumen. I am passionate about nurturing and encouraging excellent engineering and team culture. Some of the values I hold high, and work to foster, include Trust, Sustainability, Impartiality and Ownership.
 

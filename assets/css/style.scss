@@ -5,3 +5,12 @@
 .badge-light {
   @include themed(background-color, $info, $light);
 }
+
+.circle-image {
+  width: 45px;
+  height: 45px;
+  border-radius: 50%;
+  object-fit: cover;
+  object-position: center;
+  margin-right: 15px;
+}

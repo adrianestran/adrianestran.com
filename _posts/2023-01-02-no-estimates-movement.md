@@ -15,7 +15,7 @@ var question = "Which strategies would you use to keep a top performer motivated
 
 {% include elements/header-3-blue.html text="Authenticity" %}
 ---
-I have a few strategies for how I would work to keep a top performer engaged. I believe the success of each strategy can be greatly improved if I have developed a deep, personal understanding of who the engineer is, their history, and where they hope to go. 
+I have experience with a few common strategies for maintaining motivation amongst high performers. I believe the success of each strategy can be greatly improved if I have developed a deep, personal understanding of who the engineer is, their history, and where they hope to go. 
 <br>
 <br>
 

@@ -1,8 +1,8 @@
 ---
 title: Motivating Top Performers
 tags: [Engineering Management]
-style: 
-color: 
+style: fill
+color: primary
 description: My response to common interview questions
 layout: post
 ---

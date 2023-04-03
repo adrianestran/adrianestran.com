@@ -1,24 +1,24 @@
+- title: Engineering Manager, Treatwell
+  from: 2023
+  to: Present
+  description: I led a team that is responsible for the development and maintenance of Treatwell's flagship SaaS product.
+  skills: [Kanban, Coaching, Feedback, Process Definition, Recruitment]
+
+
 - title: Engineering Manager, Argyle
   from: 2021
   to: 2022
-  description: Supported the SDK team in building and maintaining Link, Argyle's
-               mobile SDK for Android, iOS, React and Flutter, and the supporting
-               backend services. 
+  description: As part of my responsibilities, I provided support to the SDK team in building and maintaining Link, Argyle's mobile SDK for Android, iOS, React, and Flutter, along with the backend services that support it.
   skills: [Android, Kotlin, REST, Swagger, SOA, Project Management, Flow Metrics, NoEstimates, Kanban, Coaching, Feedback, Process Definition, Recruitment]
 
-- title: Android dev & Engineering Manager, Deloitte Digital
+- title: Android Developer & Engineering Manager, Deloitte Digital
   from: 2014
   to: 2021
-  description: Part of the engineering leadership on a number of large digital
-               transformation projects within the consumer banking sector
+  description: I served as a member of the engineering leadership team for multiple large-scale digital transformation initiatives in the consumer banking sector.
   skills: [Android, Kotlin, Java, Spring, Apache Camel, REST, Swagger, SOA, Project Management, Flow Metrics, Coaching, Feedback, NoEstimates, Kanban, Process Definition, Recruitment]
 
 - title: Mobile Engineer, Gravity
   from: 2012
   to: 2014
-  description: App development utilising the Xamarin Platform and C#
-               Worked in a small team of 4 with responsibility for developing
-               small/medium-sized apps on both Android and iOS
-               Leveraged my C# & .NET experience to deliver cross-platform apps
-               with considerable (+-60%) code sharing
+  description: In a small team of four, I contributed to app development using the Xamarin Platform and C#. My responsibilities included developing small and medium-sized apps for both Android and iOS platforms. Leveraging my expertise in C# and .NET, I successfully delivered cross-platform apps with a significant amount of code sharing (approximately 60%).
   skills: [Android, iOS, Xamarin, C#, HTML, CSS]

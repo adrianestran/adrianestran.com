@@ -1,3 +1,8 @@
+- name: Culture Map - Decoding How People Think, Lead, and Get Things Done Across Cultures
+  author: Erin Meyes
+  book_url: https://www.amazon.es/Seven-Half-Lessons-About-Brain/dp/1529018625
+  image: https://franciscotorreblanca.es/wp-content/uploads/2019/05/the-culture-map.jpg
+
 - name: 7 and a half lessons about the brain
   author: Lisa Feldman Barrett
   book_url: https://www.amazon.es/Seven-Half-Lessons-About-Brain/dp/1529018625
@@ -27,3 +32,8 @@
   author: Tanya Reilly
   book_url: https://www.amazon.es/Staff-Engineers-Path-Individual-Contributors/dp/1098118731
   image: https://m.media-amazon.com/images/I/813cTBVF1hL.jpg
+
+- name: The Songe of the Cell
+  author: Siddhartha Mukherjee
+  book_url: https://www.amazon.es/Omniscient-Cell-Siddhartha-Mukherjee/dp/1847925979
+  image: https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/81QkXMi9qYL.jpg

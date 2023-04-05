@@ -6,8 +6,6 @@ permalink: /
 <br>
 # **About Me**
 
-Hi there. My name is **{{ site.author.name }}** :wave:,<br>
-
 My professional journey in software engineering spans 14 years, out of which I have spent more than 8 years contributing as an IC with a specialization in native mobile development. Over the past 5 years, I have diversified my experience by leading engineering and product teams in multiple domains, including banking, fintech, public sector, and consulting.
 
 I consider myself to be a highly adaptable individual with a strong blend of business and technical acumen. My passion lies in fostering a culture of excellence in engineering and team dynamics. As a leader, I prioritize values such as Trust, Sustainability and Ownership, which I work hard to instill in myself and others around me.

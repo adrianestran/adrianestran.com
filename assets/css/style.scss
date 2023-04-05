@@ -14,3 +14,17 @@
   object-position: center;
   margin-right: 15px;
 }
+
+.logo-image {
+  width: 50px;
+  height: 50px;
+  margin-bottom: 5px;
+  margin-right: 5px;
+  object-fit: cover;
+  vertical-align: bottom;
+  object-position: center;
+}
+
+.inline-block-child {
+  display: inline-block;
+}

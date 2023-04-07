@@ -21,7 +21,7 @@ In pursuit of these values, I have developed skills and interests in the followi
 
 My ideal role is a close-to-the-ground leadership position, solving technical, team and people challenges within a product organisation. 
 
-What matters to me the most is the work culture, where I can collaborate with a diverse and welcoming group of individuals. I believe in bringing my authentic self to work and thrive in an environment where everyone can do the same.
+The work culture is the most crucial aspect for me, as I want to be part of a diverse and inclusive team. I am most productive when I can be myself, and I value an environment where everyone feels comfortable doing the same.
 
 <div class="row">
 {% include about/timeline.html %}

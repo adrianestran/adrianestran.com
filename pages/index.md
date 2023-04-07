@@ -11,13 +11,13 @@ My professional journey in software engineering spans 14 years, of which I have 
 I consider myself to be a highly adaptable individual with a strong blend of business and technical acumen. My passion lies in fostering a culture of excellence in engineering and team dynamics. As a leader, I prioritize values such as Trust, Sustainability and Ownership, which I work hard to instill in myself and others around me.
 
 In pursuit of these values, I have developed skills and interests in the following areas:
-- Shaping predictable delivery systems
-- Communicating across cultures and geographies
-- Pragmatically applying engineering process best practice
-- Engineering culture and high-performing teams
-- Working collaboratively across different areas of the business
-- Modern recruitment practises
-- Empathic leadership
+- Developing reliable delivery systems
+- Effectively communicating with individuals from diverse cultures and skill levels
+- Implementing engineering and process best practices in a practical manner
+- Fostering an engineering culture that promotes high-performance teams
+- Collaborating seamlessly across various departments within the organization
+- Utilizing contemporary recruitment practices
+- Demonstrating empathetic leadership skills
 
 My ideal role is a close-to-the-ground leadership position, solving technical, team and people challenges within a product organisation. 
 

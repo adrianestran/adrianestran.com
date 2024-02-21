@@ -1,3 +1,33 @@
+- name: Of Mice and Men
+  author: John Steinbeck
+  book_url: https://www.goodreads.com/book/show/890.Of_Mice_and_Men
+  image: https://m.media-amazon.com/images/I/81c285t24SL._AC_UF1000,1000_QL80_.jpg
+
+- name: Letter to a Christian Nation
+  author: Sam Harris
+  book_url: https://www.goodreads.com/book/show/51299.Letter_to_a_Christian_Nation
+  image: https://m.media-amazon.com/images/I/51cAcdrt3rL._AC_UF1000,1000_QL80_.jpg
+
+- name: Man's Search For Meaning
+  author: Viktor E Frankl
+  book_url: https://www.goodreads.com/book/show/4069.Man_s_Search_for_Meaning
+  image: https://m.media-amazon.com/images/I/61nTspM+BYL._AC_UF1000,1000_QL80_.jpg
+
+- name: Behave
+  author: Robert M. Sapolsky
+  book_url: https://www.goodreads.com/book/show/31170723-behave
+  image: https://cdn.kobo.com/book-images/61c219a0-1a2c-4a8f-babf-68cc2587b5f6/1200/1200/False/behave-4.jpg
+
+- name: The Gene - An Intimate History
+  author: Siddhartha Mukherjee
+  book_url: https://www.goodreads.com/en/book/show/27276428
+  image: https://m.media-amazon.com/images/I/41lmyAYhdaL.jpg
+
+- name: The Song of the Cell
+  author: Siddhartha Mukherjee
+  book_url: https://www.goodreads.com/book/show/60321392-the-song-of-the-cell
+  image: https://d28hgpri8am2if.cloudfront.net/book_images/onix/cvr9781982117368/the-song-of-the-cell-9781982117368_hr.jpg
+
 - name: Culture Map - Decoding How People Think, Lead, and Get Things Done Across Cultures
   author: Erin Meyes
   book_url: https://www.amazon.es/Seven-Half-Lessons-About-Brain/dp/1529018625

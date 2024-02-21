@@ -59,8 +59,3 @@ Connecting the dots between individual efforts and the broader impact of their w
 Motivating top performers is an ongoing journey, marked by continuous learning, adaptation, and empathy. It’s about creating an environment where the fear of stagnation is replaced by the excitement of growth and where challenges are seen as opportunities to excel further.
 
 
-
-<br>
-> This series of posts will cover my responses to questions I commonly encounter during Engineering Management interviews. My answers to these questions will undoubtedly evolve. 
-<br>
-

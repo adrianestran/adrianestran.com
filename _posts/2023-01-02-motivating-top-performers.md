@@ -1,12 +1,12 @@
 ---
 title: Motivating High Performers
 tags: [Engineering Management]
-style: border
+style: default
 color: primary
 description: The Subtle Art 
+layout: post
 ---
 
----
 <br>
 In the realm of engineering management, understanding the nuanced dance of motivation among top performers is akin to navigating personal fears and challenges. It’s not the fear of being wrong that we confront, but rather the quest to inspire and sustain the drive in those who already excel.
 

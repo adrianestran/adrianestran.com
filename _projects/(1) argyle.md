@@ -1,7 +1,0 @@
----
-name: Argyle
-tools: [Android, Agile, Leadership]
-image: https://partner.visa.com/content/dam/gpp/partner-directory/2argyle-black-l%20copy.png
-description: Most recently, worked at Argyle (Remote 1st, Series-B, SaaS product) leading the team responsible for building and maintaining Argyle's mobile SDK across Android, iOS, React and Flutter, as well as the supporting backend systems.
-external_url: https://argyle.com/
----

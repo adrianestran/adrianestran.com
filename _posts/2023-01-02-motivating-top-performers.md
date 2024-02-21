@@ -1,10 +1,9 @@
 ---
 title: Motivating High Performers
 tags: [Engineering Management]
-style: fill
+style: border
 color: primary
 description: The Subtle Art 
-layout: post
 ---
 
 ---

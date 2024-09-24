@@ -8,7 +8,7 @@ permalink: /
 
 Hi, I'm Adrian👋 - an Engineering Manager with a passion for People-First Engineering Culture, Delivery Strategy, and Lean Product Development. Over my career, I’ve built and managed enterprise scale distributed systems across diverse industries, including FinTech, Government, E-Commerce, and B2B SaaS.
 
-I’m currently one of 2 Engineering Managers for the B2B SaaS team at Treatwell, Europe’s largest Hair and Beauty platform. I oversee a team of 7, building and operating the SaaS platform that serves 25,000 salons across Europe.
+I’m currently one of 2 Engineering Managers for the B2B SaaS team at Treatwell, Europe’s largest Hair and Beauty platform. I oversee a team of 7, building and operating the SaaS platform that serves 28,000 salons across Europe.
 
 In my current role, my focus areas include Agile delivery, mentoring engineers, system design, fostering engineering culture, hiring, and incident management.
 

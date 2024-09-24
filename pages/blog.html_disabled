@@ -1,9 +1,0 @@
----
-layout: default
-title: Writing
-weight: 2
-permalink: /writing/
----
-
-{% include blog/search.html %}
-{% include blog/index.html %}

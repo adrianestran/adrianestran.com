@@ -31,7 +31,7 @@
   company: Deloitte Digital
   from: 2014
   to: 2021 [8yrs]
-  img: https://media.licdn.com/dms/image/C510BAQG9x6s0x5PIxw/company-logo_200_200/0/1519904069133?e=2147483647&v=beta&t=ZbSnPeQybeWB5xaEy5KYUegdyS-k0YQfVcihQkvl7g4
+  img: https://techspark.co/wp-content/uploads/2021/11/Deloitte-Digital-Logo-uai-516x516.png
   description:
     - Fast-tracked from Consultant to Manager in 4 years, leading engineering teams and delivery streams across large-scale digital transformation programmes in banking, insurance, and public sector environments
     - Led delivery of three greenfield mobile banking applications for major banks including Metro Bank, Virgin Money, Tesco Bank, and Raiffeisen Bank, reaching hundreds of thousands of users across the UK and Europe
@@ -47,6 +47,5 @@
   company: Gravity
   from: 2012
   to: 2014 [2yrs]
-  img: https://media.licdn.com/dms/image/C4D0BAQFSlvzpWAtOVA/company-logo_200_200/0/1519952581583?e=2147483647&v=beta&t=bOj_r72sDX4TP3-iz8rn8kswOsu13xPf0CsktsAqQNw
   description: In a small team of four, I contributed to app development using the Xamarin Platform and C#. My responsibilities included developing small and medium-sized apps for both Android and iOS platforms. Leveraging my expertise in C# and .NET, I successfully delivered cross-platform apps with a significant amount of code sharing (approximately 60%).
   skills: [Android, iOS, Xamarin, C#, HTML, CSS]

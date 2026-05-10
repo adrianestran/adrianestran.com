@@ -5,9 +5,11 @@
         <div class="content">
 
           <div class='parent'>
-            <div class='child inline-block-child'>
-              <img id="{{ item.img }}" class="logo-image" src="{{ item.img }}" alt="{{ item.img }}" />
-            </div>
+            {% if item.img %}
+              <div class='child inline-block-child'>
+                <img id="{{ item.img }}" class="logo-image" src="{{ item.img }}" alt="{{ item.company }} logo" />
+              </div>
+            {% endif %}
             <div class='child inline-block-child'>
               <p class="timeline-text">{{ item.title }}</p>
               <p class="timeline-text">{{ item.company }}</p>

@@ -2,6 +2,13 @@
 ---
 @import "portfolYOU";
 
+body {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  text-rendering: optimizeLegibility;
+}
+
 .badge-light {
   @include themed(background-color, $info, $light);
 }

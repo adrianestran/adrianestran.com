@@ -19,7 +19,15 @@
           <!-- <img id="{{ item.img }}" class="logo-image" src="{{ item.img }}" alt="{{ item.img }}" />
           <p>{{ item.title }}</p>
           <h6 class="date">{{ item.from }} — {{ item.to }}</h6> -->
-          <p>{{ item.description }}</p>
+          {% if item.description.first %}
+            <ul>
+              {% for description_item in item.description %}
+                <li>{{ description_item }}</li>
+              {% endfor %}
+            </ul>
+          {% else %}
+            <p>{{ item.description }}</p>
+          {% endif %}
 
           <div>
             {% for skill in item.skills %}

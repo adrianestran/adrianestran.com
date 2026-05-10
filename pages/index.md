@@ -6,15 +6,13 @@ permalink: /
 <br>
 # **About Me**
 
-Hi, I'm Adrian👋 - an Engineering Manager with a passion for People-First Engineering Culture, Delivery Strategy, and Lean Product Development. Over my career, I’ve built and managed enterprise scale distributed systems across diverse industries, including FinTech, Government, E-Commerce, and B2B SaaS.
+Over the last 15+ years I’ve worked across secure infrastructure, consulting, fintech, public sector and B2B SaaS, leading teams that build and scale customer-facing products used by hundreds of thousands of people.
 
-I’m currently one of 2 Engineering Managers for the B2B SaaS team at Treatwell, Europe’s largest Hair and Beauty platform. I oversee a team of 7, building and operating the SaaS platform that serves 28,000 salons across Europe.
+I started my career building software and hardware integrations for high-security prisons in the UK before moving into consulting and digital product delivery at Deloitte Digital, where I spent 8 years leading engineering teams across banking, insurance and government. Since then I’ve focused on product engineering within SaaS businesses, helping organisations scale teams, simplify delivery and evolve their platforms through periods of growth and change.
 
-In my role at Treatwell, I focus on Agile delivery, engineering mentorship, system design, cultivating engineering culture, recruitment, and incident management.
+Today I lead cross-functional product engineering teams at Treatwell, working on the B2B platform used by tens of thousands of salons across Europe. My focus is building strong teams, creating clarity in complex environments, and helping engineering, product and business teams make better decisions together.
 
-My ideal role is a close-to-the-ground leadership position, solving technical, team and people challenges within a product organisation. 
-
-The work culture is the most crucial aspect for me, as I want to be part of a diverse and inclusive team. I am most productive when I can be myself, and I value an environment where everyone feels comfortable doing the same.
+I still stay close to the technical side of delivery and enjoy building products as much as leading the teams behind them.
 
 <div class="row">
 {% include about/timeline.html %}

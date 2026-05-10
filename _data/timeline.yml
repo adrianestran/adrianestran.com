@@ -3,7 +3,15 @@
   from: 2023
   to: Present
   img: https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_ca08e16ee1f011efac98913a616cff39/treatwell.png
-  description: I lead the team responsible for the development and maintenance of Treatwell's flagship SaaS product.
+  description:
+    - Led the resurrection and scaling of a previously deprioritised SaaS platform that still served tens of thousands of daily users but had limited organisational knowledge and ownership
+    - Built and scaled the initial product development team from ~6 to 30+ engineers across 4 teams over 2 years as the platform became the company's primary strategic product
+    - Operated in a high-ambiguity environment with minimal documentation, balancing live production stability with reverse-engineering and modernisation of legacy systems
+    - Maintained consistent delivery performance with cycle time under 4 days over a 12-month period
+    - Co-created the 'Data Governance Council' to standardise and codify tracking and analytics practices across our product development teams, improving all aspects of our data analytics capability
+    - Led and drove organisational alignment to migrate years worth of localised content across CMS platforms, coordinating engineering, product, and content teams while delivering operational cost savings
+    - Improved hiring processes by introducing more deliberate evaluation of technical and cultural fit, increasing hiring quality and supporting team growth, including hiring the first woman into the engineering team
+    - Mentored engineers and product managers, increasing delivery ownership and technical maturity within a largely developing team
   skills: [Engineering Process, Engineering Culture, People Managment, Project Management, Delivery Metrics, Recruitment]
 
 - title: Engineering Manager
@@ -11,7 +19,12 @@
   from: 2021
   to: 2022 [1yr]
   img: https://d2kq0urxkarztv.cloudfront.net/51b71505874ca473560002f6/2558020/upload-307a93ef-66dc-4e83-a883-7da0944a353d.png?e=webp&nll=true
-  description: As part of my responsibilities, I provided support to the SDK team in building and maintaining Link, Argyle's mobile SDK for Android, iOS, React, and Flutter, along with the backend services that support it.
+  description:
+    - Owned delivery and technical direction for Argyle's mobile and web SDKs
+    - Defined and helped implement a forward-looking Android architecture to improve scalability, maintainability, and long-term evolution of the platform
+    - Introduced and embedded delivery practices focused on flow, predictability, and continuous improvement across engineering teams
+    - Led end-to-end delivery of multiple product features spanning SDK and backend systems
+    - Supported engineers through ongoing technical guidance and feedback, contributing to team growth and delivery consistency
   skills: [Android, Kotlin, REST, Swagger, SOA, Project Management, Delivery Metrics, NoEstimates, Engineering Process, Engineering Culture, People Managment, Project Management]
 
 - title: Android Engineer & Engineering Manager
@@ -19,7 +32,15 @@
   from: 2014
   to: 2021 [8yrs]
   img: https://media.licdn.com/dms/image/C510BAQG9x6s0x5PIxw/company-logo_200_200/0/1519904069133?e=2147483647&v=beta&t=ZbSnPeQybeWB5xaEy5KYUegdyS-k0YQfVcihQkvl7g4
-  description: I served as a member of the engineering leadership team for multiple large-scale digital transformation initiatives in the consumer banking sector.
+  description:
+    - Fast-tracked from Consultant to Manager in 4 years, leading engineering teams and delivery streams across large-scale digital transformation programmes in banking, insurance, and public sector environments
+    - Led delivery of three greenfield mobile banking applications for major banks including Metro Bank, Virgin Money, Tesco Bank, and Raiffeisen Bank, reaching hundreds of thousands of users across the UK and Europe
+    - Operated as engineering and technical lead across full delivery lifecycle, combining hands-on development with architecture collaboration, planning, and execution leadership
+    - Worked with client architects and product teams to translate legacy banking constraints into modern mobile experiences aligned with challenger banking expectations
+    - Acted as escalation point on major programmes, managing complex stakeholder environments across product, architecture, and senior banking stakeholders
+    - Contributed to system design and delivery decisions in highly regulated environments, balancing client expectations with technical feasibility and delivery constraints
+    - Supported UK government COVID response initiative enabling transport workers to securely travel and track compliance during the pandemic
+    - Delivered a consumer banking application (Metro Bank) recognised as "Best Banking App" in its launch year
   skills: [Android, Kotlin, Java, Spring, Apache Camel, REST, Swagger, SOA, Project Management, Flow Metrics, Coaching, Feedback, NoEstimates, Kanban, Process Definition, Recruitment]
 
 - title: Mobile Engineer

@@ -10,6 +10,8 @@
   <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
     <div class="navbar-nav ml-auto">
 
+      <a class="nav-item nav-link" href="{{ '/assets/cv/adrian-estran-cv.pdf' | relative_url }}" download title="Download CV as PDF">Download CV</a>
+
       {%- assign html_pages = site.html_pages | sort: 'weight' -%}
       {%- assign filtered_pages = "" | split: "" -%}
 
